@@ -1,7 +1,6 @@
-### Olá 👋, 
-<h3 align="center">sou um desenvolvedor back-end focado em Java/Spring. Todos os projetos que (em breve) estarão aqui são open-source, como tudo deveria ser :)</h3>
-
-- 🔭 Atualmente trabalhando no projeto **Contrate um Junior**
+### Olá 👋. 
+<h3 align="center">Desenvolvedor back-end focado em Java/Spring. Todos os projetos que (em breve) estarão aqui são open-source, como tudo deveria ser :)</h3>
+<h3 align="center">Entusiasta Linux e FOSS.</h3>
 
 - 🌱 Atualmente aprendendo sobre **Microsserviços**
 

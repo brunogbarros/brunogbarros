@@ -1,10 +1,11 @@
-### Olá 👋. 
-<h3 align="center">Desenvolvedor back-end focado em Java/Spring. Todos os projetos que (em breve) estarão aqui são open-source, como tudo deveria ser :)</h3>
-<h3 align="center">Entusiasta Linux e FOSS.</h3>
+### Hi there 👋. 
+<h3 align="center">I am interested back-end web development, API design, systems programming and in learning and exploring new languages and technologies. </h3>
 
-- 🌱 Atualmente aprendendo sobre **Microsserviços**
+<h4 align="center">My main programming experience is on Linux and Windows, coding in Java with Spring.</h4>
+<h4 align="center">Very soon every project here will be free and open-source.</h4>
 
-- 📫 Como entrar em contato **barros.brunog@gmail.com**
+
+- 📫 Contact me **brunog.barros@pm.me**
 
 
 <h3 align="left">Languages and Tools:</h3>

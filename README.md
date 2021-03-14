@@ -1,11 +1,10 @@
 ### Hi there 👋. 
-<h3 align="center">I am interested back-end web development, API design, systems programming and in learning and exploring new languages and technologies. </h3>
+<h3 align="center">I am interested back-end web development, API design, systems programming and in learning and exploring new languages and technologies. Free software enthusiast.</h3>
 
 <h4 align="center">My main programming experience is on Linux and Windows, coding in Java/Spring.</h4>
 <h4 align="center">Very soon every project here will be free and open-source.</h4>
 
 
-- 📫 Contact me **brunog.barros@pm.me**
 
 
 <h4 align="left">Languages and Tools:</h4>
